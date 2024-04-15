@@ -1,0 +1,29 @@
+/* Importing Google font - Open Sans */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&display=swap');
+
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', serif;
+    
+  }
+  body{
+    background-color:darkseagreen;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    
+  }
+  form{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    padding:10px;
+    border-radius: 6px;
+    box-shadow: 0 0 30px;
+  }
+ 
+  

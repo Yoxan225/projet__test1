@@ -1,0 +1,81 @@
+/* Importing Google font - Open Sans */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&display=swap');
+
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', serif;
+    
+  }
+    body{
+        background-color: aliceblue;
+        
+        justify-content: center;
+        background-color: whitesmoke;
+        font-family: 'Montserrat', serif;
+        background-image:url("Nounou-et-2-enfants-lecture-scaled.jpg");
+        background-attachment:fixed;
+        background-size:cover;
+        background-repeat:no-repeat;
+        background-position:center;
+        background-size: cover;
+        gap: 2vm;
+        min-height: 100vh;
+        align-items: center;
+        justify-content: center;
+        padding: 0 40px;
+
+    }  
+    h1 {
+        color:darkolivegreen;
+        margin: 30px auto;
+        width:80%;
+        padding: 15px;
+    }
+    h3{
+        color:cadetblue;
+        margin: 30px auto;
+        width:80%;
+        padding: 15px;
+    }    
+    
+    .b1{
+      display: flex;
+      margin: auto;
+      height: 30px;
+      font-family: "Roboto",sans-serif;
+      font-size: 18px;
+      font-weight: bold;
+      background: #1E90FF;
+      text-align: center;
+      text-decoration: none;
+      text-transform: uppercase;
+      color:#ffff;
+      border-radius: 5px;
+      cursor: pointer;
+      box-shadow: 0 0 10px rgba(0, 0, 0);
+      
+      
+    }
+    .b2{
+      display: block;
+      margin: auto;
+      height: 30px; 
+      font-family: "Roboto",sans-serif;
+      font-size: 18px;
+      font-weight: bold;
+      background: #1E90FF;
+      text-align: center;
+      text-decoration: none;
+      text-transform: uppercase;
+      color:#ffff;
+      border-radius: 5px;
+      cursor: pointer;
+      box-shadow: 0 0 10px rgba(0,0,0);
+      
+          
+
+    }
+    
